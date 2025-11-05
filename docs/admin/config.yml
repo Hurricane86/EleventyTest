@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Hurricane86/EleventyTest
   branch: main
-  base_url: https://hurricane86.github.io/EleventyTest/
+  base_url: https://decap-auth.vercel.app
   auth_endpoint: /api/auth
 media_folder: "raw_img/uploads"
 publish_mode: editorial_workflow
