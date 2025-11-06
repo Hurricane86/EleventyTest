@@ -3,70 +3,84 @@
 	
 		
 		<url>
-			<loc>https://example.com/blog/firstpost/</loc>
+			<loc>https://example.com/EleventyTest/blog/firstpost/</loc>
 			<lastmod>2018-05-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/secondpost/</loc>
+			<loc>https://example.com/EleventyTest/blog/secondpost/</loc>
 			<lastmod>2018-07-04</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/thirdpost/</loc>
+			<loc>https://example.com/EleventyTest/blog/thirdpost/</loc>
 			<lastmod>2018-08-24</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/fourthpost/</loc>
+			<loc>https://example.com/EleventyTest/blog/fourthpost/</loc>
 			<lastmod>2018-09-30</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/new-post-using-decap/</loc>
+			<loc>https://example.com/EleventyTest/blog/new-post-using-decap/</loc>
 			<lastmod>2025-11-04</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/about/</loc>
-			<lastmod>2025-11-05</lastmod>
+			<loc>https://example.com/EleventyTest/blog/hello-world/</loc>
+			<lastmod>2025-11-06</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/blog/</loc>
-			<lastmod>2025-11-05</lastmod>
+			<loc>https://example.com/EleventyTest/blog/this-is-a-new-post-made-with-decap/</loc>
+			<lastmod>2025-11-06</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/</loc>
-			<lastmod>2025-11-05</lastmod>
+			<loc>https://example.com/EleventyTest/about/</loc>
+			<lastmod>2025-11-06</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/tags/</loc>
-			<lastmod>2025-11-05</lastmod>
+			<loc>https://example.com/EleventyTest/blog/</loc>
+			<lastmod>2025-11-06</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/feed/feed.xml</loc>
+			<loc>https://example.com/EleventyTest/</loc>
+			<lastmod>2025-11-06</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>https://example.com/EleventyTest/tags/</loc>
+			<lastmod>2025-11-06</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>https://example.com/EleventyTest/feed/feed.xml</loc>
 			<lastmod>2025-11-06</lastmod>
 		</url>
 	
