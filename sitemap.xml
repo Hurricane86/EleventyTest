@@ -52,6 +52,13 @@
 	
 		
 		<url>
+			<loc>https://example.com/EleventyTest/blog/title-aaa/</loc>
+			<lastmod>2025-11-06</lastmod>
+		</url>
+	
+	
+		
+		<url>
 			<loc>https://example.com/EleventyTest/about/</loc>
 			<lastmod>2025-11-06</lastmod>
 		</url>

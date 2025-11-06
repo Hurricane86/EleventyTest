@@ -11,6 +11,18 @@
     <name>Your Name</name>
   </author>
   <entry>
+    <title>title aaa</title>
+    <link href="https://example.com/EleventyTest/blog/title-aaa/" />
+    <updated>2025-11-06T00:00:00Z</updated>
+    <id>https://example.com/EleventyTest/blog/title-aaa/</id>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;b&lt;/li&gt;
+&lt;li&gt;c&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
     <title>This is a new post made with Decap</title>
     <link href="https://example.com/EleventyTest/blog/this-is-a-new-post-made-with-decap/" />
     <updated>2025-11-06T00:00:00Z</updated>
