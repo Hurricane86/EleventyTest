@@ -7,4 +7,9 @@ tags:
 ---
 Welcome to the new world
 
-{% card "this is a card made in decap", "bla bla bla bla" %}
+
+{% card "aaaa", "ddd" %}
+
+
+
+{% card "fffff", "ddddd" %}
