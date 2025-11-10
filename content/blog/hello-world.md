@@ -6,3 +6,5 @@ tags:
   - posts
 ---
 Welcome to the new world
+
+{% card "Card title", "Body of the card component" %}

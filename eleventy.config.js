@@ -121,6 +121,15 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	  eleventyConfig.addShortcode("card", function(title, content) {
+		return `
+		<div class="card">
+			<h3>${title}</h3>
+			<p>${content}</p>
+		</div>
+		`;
+	});
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
