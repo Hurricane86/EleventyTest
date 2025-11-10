@@ -7,6 +7,4 @@ tags:
 ---
 Welcome to the new world
 
-{% card "Card title", "Body of the card component" %}
-
-::card title of card edited in the decap | decap is good ::
+{% card "this is a card made in decap", "bla bla bla bla" %}
