@@ -130,18 +130,18 @@ export default async function(eleventyConfig) {
 		`;
 	});
 
-	eleventyConfig.addFilter("renderCards", (content) => {
-		if (!content) return "";
+	// eleventyConfig.addFilter("renderCards", (content) => {
+		// if (!content) return "";
 
-		return content.replace(/::card\s+([^|]+)\s*\|\s*([^|]+)::/g, (match, title, text) => {
-			return `
-			<div class="card">
-				<h3>${title}</h3>
-				<p>${text}</p>
-			</div>
-			`;
-		});
-	});
+		// return content.replace(/::card\s+([^|]+)\s*\|\s*([^|]+)::/g, (match, title, text) => {
+			// return `
+			// <div class="card">
+				// <h3>${title}</h3>
+				// <p>${text}</p>
+			// </div>
+			// `;
+		// });
+	// });
 
 	// Features to make your build faster (when you need them)
 
