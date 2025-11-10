@@ -60,35 +60,35 @@
 		
 		<url>
 			<loc>https://example.com/EleventyTest/about/</loc>
-			<lastmod>2025-11-06</lastmod>
+			<lastmod>2025-11-10</lastmod>
 		</url>
 	
 	
 		
 		<url>
 			<loc>https://example.com/EleventyTest/blog/</loc>
-			<lastmod>2025-11-06</lastmod>
+			<lastmod>2025-11-10</lastmod>
 		</url>
 	
 	
 		
 		<url>
 			<loc>https://example.com/EleventyTest/</loc>
-			<lastmod>2025-11-06</lastmod>
+			<lastmod>2025-11-10</lastmod>
 		</url>
 	
 	
 		
 		<url>
 			<loc>https://example.com/EleventyTest/tags/</loc>
-			<lastmod>2025-11-06</lastmod>
+			<lastmod>2025-11-10</lastmod>
 		</url>
 	
 	
 		
 		<url>
 			<loc>https://example.com/EleventyTest/feed/feed.xml</loc>
-			<lastmod>2025-11-06</lastmod>
+			<lastmod>2025-11-10</lastmod>
 		</url>
 	
 </urlset>

@@ -37,6 +37,10 @@
     <updated>2025-11-06T00:00:00Z</updated>
     <id>https://example.com/EleventyTest/blog/hello-world/</id>
     <content type="html">&lt;p&gt;Welcome to the new world&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;card&quot;&gt;
+&lt;h3 id=&quot;card-title&quot;&gt;Card title&lt;/h3&gt;
+&lt;p&gt;Body of the card component&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 </content>
   </entry>
   <entry>
