@@ -6,8 +6,8 @@ CMS.registerEditorComponent({
     { name: "content", label: "Contenuto", widget: "text" }
   ],
 
-  // Pattern per catturare il blocco nel Markdown
-  pattern: /^::card\s+([^|]+)\s*\|\s*([^|]+)::/s,
+  // Regex per catturare il blocco nel Markdown
+  pattern: /{%\s*card\s*"([^"]+)"\s*,\s*"([^"]+)"\s*%}/,
 
   fromBlock(match) {
     return {
@@ -17,7 +17,8 @@ CMS.registerEditorComponent({
   },
 
   toBlock({ title, content }) {
-    return `::card ${title} | ${content}::`;
+    // Genera il markup da salvare nel Markdown
+    return `{% card "${title}", "${content}" %}`;
   },
 
   toPreview({ title, content }) {
