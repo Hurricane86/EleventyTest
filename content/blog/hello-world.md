@@ -8,3 +8,5 @@ tags:
 Welcome to the new world
 
 {% card "Card title", "Body of the card component" %}
+
+::card title of card edited in the decap | decap is good |  | ::
